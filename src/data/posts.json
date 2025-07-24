@@ -1,19 +1,79 @@
 [
-  {
-    "id": 1,
-    "author": {
-      "name": "Sarah Chen",
-      "title": "Senior Software Engineer at TechCorp",
-      "avatar": "https://i.pravatar.cc/150?img=1",
-      "company": "TechCorp"
+    {
+        "id": 0,
+        "author": {
+        "name": "Joanne Stocker",
+        "title": "VP of Software Engineering at Dream Job Corporation",
+        "avatar": "https://i.pravatar.cc/150?img=0",
+        "company": "Dream Job Corporation"
+        },
+        "content": "We're hiring! 🚀 We have 87 positions open including one that you'd be PERFECT for, but we probably won't even look at your resume. In fact, we're sending you a pre-emptive rejection email right now. #Hiring #DreamJob #TooBad #SoSad",
+        "timestamp": "1 hour ago",
+        "likes": 654,
+        "comments": 73,
+        "shares": 29,
+        "image": null
     },
-    "content": "Just completed my 47th certification this month! 🚀 Remember, if you're not constantly upskilling, you're falling behind. The future belongs to those who never sleep and always learn. #AlwaysLearning #TechLife #NoSleepGang #HustleCulture #GrindSet",
-    "timestamp": "2 hours ago",
-    "likes": 1247,
-    "comments": 89,
-    "shares": 156,
-    "image": null
-  },
+    {
+      "id": 13,
+      "author": {
+        "name": "Rachel Green",
+        "title": "Project Manager - HIRE ME",
+        "avatar": "https://i.pravatar.cc/150?img=14",
+        "company": "Project Solutions"
+      },
+      "content": "Just got laid off after 10 years and I'm devastated. I was doing everything right - working hard, showing up every single day, staying late, taking on extra projects. Now I'm not sure if I can keep my house or afford my medications. #OpenToWork",
+      "timestamp": "4 days ago",
+      "likes": 2,
+      "comments": 0,
+      "shares": 0,
+      "image": null
+    },
+    {
+      "id": 15,
+      "author": {
+        "name": "Sophie Martinez",
+        "title": "Senior Director of Content at Dream Job Corporation",
+        "avatar": "https://i.pravatar.cc/150?img=16",
+        "company": "Dream Job Corporation"
+      },
+      "content": "🎯 JUST GOT A PROMOTION! This is what happens when you work hard, show up every single day, stay late, and take on extra projects. Consistency is key! Thank you to everyone who's been part of this journey. #Milestone #Growth #Consistency #Success #Gratitude",
+      "timestamp": "5 days ago",
+      "likes": 2789,
+      "comments": 234,
+      "shares": 156,
+      "image": null
+    },
+    {
+      "id": 10,
+      "author": {
+        "name": "James Wilson",
+        "title": "Product Manager",
+        "avatar": "https://i.pravatar.cc/150?img=11",
+        "company": "TechStart"
+      },
+      "content": "Just shipped our MVP in 48 hours! 💪 The team worked through the weekend, but that's what it takes to be a winner in life. Sleep and relaxation are for the weak. #MVP #Agile #Innovation #Speed #Execution",
+      "timestamp": "2 days ago",
+      "likes": 1123,
+      "comments": 67,
+      "shares": 45,
+      "image": null
+    },
+    {
+        "id": 1,
+        "author": {
+        "name": "Sarah Chen",
+        "title": "Senior Software Engineer at TechCorp",
+        "avatar": "https://i.pravatar.cc/150?img=1",
+        "company": "TechCorp"
+        },
+        "content": "Just completed my 47th certification this month! 🚀 Remember, if you're not constantly upskilling, you're falling behind. The future belongs to those who never sleep and always learn. #AlwaysLearning #TechLife #NoSleepGang #HustleCulture #GrindSet",
+        "timestamp": "2 hours ago",
+        "likes": 1247,
+        "comments": 89,
+        "shares": 156,
+        "image": null
+    },
   {
     "id": 2,
     "author": {
@@ -135,21 +195,6 @@
     "image": null
   },
   {
-    "id": 10,
-    "author": {
-      "name": "James Wilson",
-      "title": "Product Manager",
-      "avatar": "https://i.pravatar.cc/150?img=11",
-      "company": "TechStart"
-    },
-    "content": "Just shipped our MVP in 48 hours! 💪 The team worked through the weekend, but that's what it takes to be a winner. Sleep is for the weak. #MVP #Agile #Innovation #Speed #Execution",
-    "timestamp": "2 days ago",
-    "likes": 1123,
-    "comments": 67,
-    "shares": 45,
-    "image": null
-  },
-  {
     "id": 11,
     "author": {
       "name": "Emma Thompson",
@@ -180,21 +225,6 @@
     "image": null
   },
   {
-    "id": 13,
-    "author": {
-      "name": "Rachel Green",
-      "title": "Project Manager",
-      "avatar": "https://i.pravatar.cc/150?img=14",
-      "company": "Project Solutions"
-    },
-    "content": "Just got laid off after 5 years. Feeling devastated and scared about the future. I thought I was doing everything right - working hard, staying late, taking on extra projects. Now I'm not sure what to do next...",
-    "timestamp": "4 days ago",
-    "likes": 5,
-    "comments": 1,
-    "shares": 0,
-    "image": null
-  },
-  {
     "id": 14,
     "author": {
       "name": "Tom Anderson",
@@ -208,21 +238,6 @@
     "comments": 456,
     "shares": 789,
     "image": "https://picsum.photos/600/400?random=3"
-  },
-  {
-    "id": 15,
-    "author": {
-      "name": "Sophie Martinez",
-      "title": "Content Creator",
-      "avatar": "https://i.pravatar.cc/150?img=16",
-      "company": "Creative Agency"
-    },
-    "content": "🎯 JUST HIT 100K FOLLOWERS! This is what happens when you show up every single day, no matter what. Consistency is key! Thank you to everyone who's been part of this journey. #Milestone #Growth #Consistency #Success #Gratitude",
-    "timestamp": "5 days ago",
-    "likes": 2789,
-    "comments": 234,
-    "shares": 156,
-    "image": null
   },
   {
     "id": 16,
