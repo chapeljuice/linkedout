@@ -1,46 +1,138 @@
-# Getting Started with Create React App
+# LinkedOut - A Satirical LinkedIn Clone
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+A humorous, satirical take on LinkedIn built with React, TypeScript, and Sass. This project mimics the look and feel of LinkedIn while featuring fake posts that poke fun at typical LinkedIn content.
 
-## Available Scripts
+## Features
 
-In the project directory, you can run:
+- **LinkedIn-style UI**: Authentic look and feel matching LinkedIn's design
+- **Responsive Design**: Works seamlessly on desktop, tablet, and mobile devices
+- **Fake Posts**: Satirical content that parodies common LinkedIn posts
+- **Interactive Elements**: Like, comment, share, and send buttons (visual only)
+- **Modern Tech Stack**: Built with React 18, TypeScript, and Sass
 
-### `npm start`
+## Tech Stack
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+- **React 18**: Modern React with hooks
+- **TypeScript**: Type-safe development
+- **Sass**: Advanced CSS with nesting and variables
+- **Create React App**: Zero-configuration build setup
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+## Getting Started
 
-### `npm test`
+### Prerequisites
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+- Node.js (version 14 or higher)
+- npm or yarn
 
-### `npm run build`
+### Installation
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+1. Clone the repository:
+```bash
+git clone <repository-url>
+cd linkedout
+```
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+2. Install dependencies:
+```bash
+npm install
+```
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+3. Start the development server:
+```bash
+npm start
+```
 
-### `npm run eject`
+4. Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+### Available Scripts
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+- `npm start` - Runs the app in development mode
+- `npm test` - Launches the test runner
+- `npm run build` - Builds the app for production
+- `npm run eject` - Ejects from Create React App (one-way operation)
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+## Project Structure
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+```
+src/
+├── components/          # React components
+│   ├── Header/         # Navigation header
+│   ├── Feed/           # Main feed container
+│   ├── Post/           # Individual post component
+│   └── index.ts        # Component exports
+├── data/               # Static data
+│   └── posts.json      # Fake LinkedIn posts
+├── types/              # TypeScript interfaces
+│   └── index.ts        # Type definitions
+├── App.tsx             # Main app component
+├── App.scss            # Main app styles
+└── index.tsx           # App entry point
+```
 
-## Learn More
+## Features in Detail
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+### Header Component
+- LinkedIn-style navigation bar
+- Search functionality (visual only)
+- Responsive design with mobile optimization
+- Profile picture and navigation items
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+### Post Component
+- Author information with avatar
+- Post content with support for text and images
+- Engagement metrics (likes, comments, shares)
+- Interactive action buttons
+- Timestamp display
+
+### Feed Component
+- Scrollable feed layout
+- Proper spacing and typography
+- Mobile-responsive design
+
+## Data Structure
+
+Posts are stored in `src/data/posts.json` with the following structure:
+
+```typescript
+interface Post {
+  id: number;
+  author: {
+    name: string;
+    title: string;
+    avatar: string;
+    company: string;
+  };
+  content: string;
+  timestamp: string;
+  likes: number;
+  comments: number;
+  shares: number;
+  image: string | null;
+}
+```
+
+## Styling
+
+The project uses Sass with BEM methodology for maintainable CSS:
+- Modular component styles
+- Responsive design with mobile-first approach
+- LinkedIn color scheme and typography
+- Custom scrollbars and focus states
+
+## Contributing
+
+1. Fork the repository
+2. Create a feature branch
+3. Make your changes
+4. Add tests if applicable
+5. Submit a pull request
+
+## License
+
+This project is for educational and entertainment purposes only. It is not affiliated with LinkedIn Corporation.
+
+## Acknowledgments
+
+- Inspired by the humorous side of LinkedIn culture
+- Built with modern web technologies
+- Designed for learning and entertainment

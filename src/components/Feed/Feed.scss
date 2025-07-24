@@ -1,0 +1,33 @@
+.feed {
+  flex: 1;
+  max-width: 552px;
+  margin: 0 auto;
+  padding: 0 16px;
+
+  &__container {
+    padding-top: 72px;
+    padding-bottom: 24px;
+  }
+}
+
+@media (max-width: 768px) {
+  .feed {
+    padding: 0 8px;
+
+    &__container {
+      padding-top: 60px;
+      padding-bottom: 16px;
+    }
+  }
+}
+
+@media (max-width: 480px) {
+  .feed {
+    padding: 0 4px;
+
+    &__container {
+      padding-top: 56px;
+      padding-bottom: 12px;
+    }
+  }
+} 

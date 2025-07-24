@@ -1,0 +1,242 @@
+[
+  {
+    "id": 1,
+    "author": {
+      "name": "Sarah Chen",
+      "title": "Senior Software Engineer at TechCorp",
+      "avatar": "https://i.pravatar.cc/150?img=1",
+      "company": "TechCorp"
+    },
+    "content": "Just completed my 47th certification this month! 🚀 Remember, if you're not constantly upskilling, you're falling behind. The future belongs to those who never sleep and always learn. #AlwaysLearning #TechLife #NoSleepGang #HustleCulture #GrindSet",
+    "timestamp": "2 hours ago",
+    "likes": 1247,
+    "comments": 89,
+    "shares": 156,
+    "image": null
+  },
+  {
+    "id": 2,
+    "author": {
+      "name": "Michael Rodriguez",
+      "title": "Thought Leader & Innovation Consultant",
+      "avatar": "https://i.pravatar.cc/150?img=2",
+      "company": "Innovation Labs"
+    },
+    "content": "Today I want to share a profound insight that will revolutionize your thinking: success is not about working hard, it's about working smart. Mind-blowing, right? 🤯 This is the kind of wisdom that comes from 15 years of reading motivational quotes on LinkedIn. #ThoughtLeadership #Innovation #Wisdom #Disrupt #ParadigmShift",
+    "timestamp": "4 hours ago",
+    "likes": 892,
+    "comments": 67,
+    "shares": 45,
+    "image": null
+  },
+  {
+    "id": 3,
+    "author": {
+      "name": "Jennifer Williams",
+      "title": "CEO & Founder at StartupXYZ",
+      "avatar": "https://i.pravatar.cc/150?img=3",
+      "company": "StartupXYZ"
+    },
+    "content": "Just raised $50M in Series A funding! 🎉 When I started this company from my garage with just $500 and a dream, everyone said it was impossible. But here's the thing about impossible - it's just a word that quitters use. #StartupLife #Funding #DreamBig #Unicorn #Disrupt",
+    "timestamp": "6 hours ago",
+    "likes": 2341,
+    "comments": 234,
+    "shares": 567,
+    "image": "https://picsum.photos/600/400?random=1"
+  },
+  {
+    "id": 4,
+    "author": {
+      "name": "David Thompson",
+      "title": "Digital Marketing Expert",
+      "avatar": "https://i.pravatar.cc/150?img=4",
+      "company": "Marketing Masters"
+    },
+    "content": "🚨 HOT TAKE: If your marketing strategy doesn't include AI, blockchain, and NFTs, you might as well be using carrier pigeons. The future is now, and it's digital. #Marketing #AI #Blockchain #FutureIsNow #DigitalTransformation",
+    "timestamp": "8 hours ago",
+    "likes": 567,
+    "comments": 34,
+    "shares": 23,
+    "image": null
+  },
+  {
+    "id": 5,
+    "author": {
+      "name": "Lisa Park",
+      "title": "HR Director at Corporate Inc.",
+      "avatar": "https://i.pravatar.cc/150?img=5",
+      "company": "Corporate Inc."
+    },
+    "content": "We're hiring! 🎯 Looking for a rockstar developer who can work 80 hours a week, has 10 years of experience in a technology that's only 5 years old, and is willing to accept entry-level pay. Must be passionate about our mission to disrupt the industry! #Hiring #TechJobs #Rockstar #Passion #Mission",
+    "timestamp": "10 hours ago",
+    "likes": 234,
+    "comments": 156,
+    "shares": 12,
+    "image": null
+  },
+  {
+    "id": 6,
+    "author": {
+      "name": "Robert Johnson",
+      "title": "Sales Executive",
+      "avatar": "https://i.pravatar.cc/150?img=6",
+      "company": "SalesForce Pro"
+    },
+    "content": "Just closed a $2M deal! 💰 The secret? I sent 47 follow-up emails and called them every day for 3 months. Persistence pays off! Remember, 'no' just means 'not yet.' #Sales #Persistence #Success #NeverGiveUp #Hustle",
+    "timestamp": "12 hours ago",
+    "likes": 1456,
+    "comments": 89,
+    "shares": 78,
+    "image": null
+  },
+  {
+    "id": 7,
+    "author": {
+      "name": "Amanda Foster",
+      "title": "Wellness Coach & Life Balance Expert",
+      "avatar": "https://i.pravatar.cc/150?img=7",
+      "company": "Wellness Warriors"
+    },
+    "content": "Today's reminder: It's okay to take a break! 🌸 I know I post about hustle culture 24/7, but sometimes you need to step back and breathe. (But not for too long, because someone else is working while you're breathing) #Wellness #Balance #Hustle #SelfCare #Mindfulness",
+    "timestamp": "1 day ago",
+    "likes": 789,
+    "comments": 45,
+    "shares": 34,
+    "image": "https://picsum.photos/600/400?random=2"
+  },
+  {
+    "id": 8,
+    "author": {
+      "name": "Kevin Zhang",
+      "title": "Data Scientist",
+      "avatar": "https://i.pravatar.cc/150?img=8",
+      "company": "DataCorp"
+    },
+    "content": "Just built an AI model that predicts when people will post motivational quotes on LinkedIn. Accuracy: 99.9%. The model learned that the best time is between 8-9 AM on weekdays, right after someone has their third coffee. #DataScience #AI #LinkedInHumor #Analytics #MachineLearning",
+    "timestamp": "1 day ago",
+    "likes": 2341,
+    "comments": 234,
+    "shares": 567,
+    "image": null
+  },
+  {
+    "id": 9,
+    "author": {
+      "name": "Maria Garcia",
+      "title": "Marketing Manager",
+      "avatar": "https://i.pravatar.cc/150?img=10",
+      "company": "Brand Solutions"
+    },
+    "content": "🚀 Just hit 10K followers! Thank you to everyone who's been part of this incredible journey. Remember, your network is your net worth. Keep building those meaningful connections! #Gratitude #Networking #Growth #Community #Success",
+    "timestamp": "2 days ago",
+    "likes": 1892,
+    "comments": 123,
+    "shares": 89,
+    "image": null
+  },
+  {
+    "id": 10,
+    "author": {
+      "name": "James Wilson",
+      "title": "Product Manager",
+      "avatar": "https://i.pravatar.cc/150?img=11",
+      "company": "TechStart"
+    },
+    "content": "Just shipped our MVP in 48 hours! 💪 The team worked through the weekend, but that's what it takes to be a winner. Sleep is for the weak. #MVP #Agile #Innovation #Speed #Execution",
+    "timestamp": "2 days ago",
+    "likes": 1123,
+    "comments": 67,
+    "shares": 45,
+    "image": null
+  },
+  {
+    "id": 11,
+    "author": {
+      "name": "Emma Thompson",
+      "title": "UX Designer",
+      "avatar": "https://i.pravatar.cc/150?img=12",
+      "company": "Design Studio"
+    },
+    "content": "Had a really tough day today. Feeling overwhelmed with work and personal stuff. Sometimes it's hard to keep up the facade of having it all together. Just needed to share this with my network...",
+    "timestamp": "3 days ago",
+    "likes": 12,
+    "comments": 3,
+    "shares": 0,
+    "image": null
+  },
+  {
+    "id": 12,
+    "author": {
+      "name": "Alex Chen",
+      "title": "Software Developer",
+      "avatar": "https://i.pravatar.cc/150?img=13",
+      "company": "CodeCorp"
+    },
+    "content": "Struggling with imposter syndrome today. Everyone around me seems so confident and successful, but I feel like I'm just faking it. Does anyone else feel this way?",
+    "timestamp": "3 days ago",
+    "likes": 8,
+    "comments": 2,
+    "shares": 0,
+    "image": null
+  },
+  {
+    "id": 13,
+    "author": {
+      "name": "Rachel Green",
+      "title": "Project Manager",
+      "avatar": "https://i.pravatar.cc/150?img=14",
+      "company": "Project Solutions"
+    },
+    "content": "Just got laid off after 5 years. Feeling devastated and scared about the future. I thought I was doing everything right - working hard, staying late, taking on extra projects. Now I'm not sure what to do next...",
+    "timestamp": "4 days ago",
+    "likes": 5,
+    "comments": 1,
+    "shares": 0,
+    "image": null
+  },
+  {
+    "id": 14,
+    "author": {
+      "name": "Tom Anderson",
+      "title": "Business Development",
+      "avatar": "https://i.pravatar.cc/150?img=15",
+      "company": "Growth Partners"
+    },
+    "content": "🔥 JUST CLOSED THE BIGGEST DEAL OF MY CAREER! $10M contract signed today! When they say it's impossible, that's when you know you're on the right track. Success is not a destination, it's a journey! #BigWins #Success #Deals #Hustle #Winning",
+    "timestamp": "4 days ago",
+    "likes": 3456,
+    "comments": 456,
+    "shares": 789,
+    "image": "https://picsum.photos/600/400?random=3"
+  },
+  {
+    "id": 15,
+    "author": {
+      "name": "Sophie Martinez",
+      "title": "Content Creator",
+      "avatar": "https://i.pravatar.cc/150?img=16",
+      "company": "Creative Agency"
+    },
+    "content": "🎯 JUST HIT 100K FOLLOWERS! This is what happens when you show up every single day, no matter what. Consistency is key! Thank you to everyone who's been part of this journey. #Milestone #Growth #Consistency #Success #Gratitude",
+    "timestamp": "5 days ago",
+    "likes": 2789,
+    "comments": 234,
+    "shares": 156,
+    "image": null
+  },
+  {
+    "id": 16,
+    "author": {
+      "name": "Chris Lee",
+      "title": "Entrepreneur",
+      "avatar": "https://i.pravatar.cc/150?img=17",
+      "company": "Startup Ventures"
+    },
+    "content": "Just sold my company for $50M! 🚀 Started with $1000 and a dream. The haters said it couldn't be done, but here we are. Remember, your dreams are only limited by your imagination and willingness to work 100 hours a week! #Exit #Success #Entrepreneurship #Dreams #Reality",
+    "timestamp": "5 days ago",
+    "likes": 4567,
+    "comments": 567,
+    "shares": 1234,
+    "image": "https://picsum.photos/600/400?random=4"
+  }
+] 
