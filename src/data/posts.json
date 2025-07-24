@@ -3,7 +3,7 @@
         "id": 0,
         "author": {
         "name": "Joanne Stocker",
-        "title": "VP of Software Engineering at Dream Job Corporation",
+        "title": "VP of Software; Ex-Amazon, Ex-Google, Ex-Meta, Ex-Lax",
         "avatar": "https://i.pravatar.cc/150?img=0",
         "company": "Dream Job Corporation"
         },
@@ -37,28 +37,43 @@
         "avatar": "https://i.pravatar.cc/150?img=16",
         "company": "Dream Job Corporation"
       },
-      "content": "🎯 JUST GOT A PROMOTION! This is what happens when you work hard, show up every single day, stay late, and take on extra projects. Consistency is key! Thank you to everyone who's been part of this journey. #Milestone #Growth #Consistency #Success #Gratitude",
+      "content": "🎯 JUST GOT A PROMOTION AFTER 6 MONTHS! This is what happens when you work hard, show up every single day, stay late, and take on extra projects. Consistency is key! Thank you to everyone who's been part of this journey. #Milestone #Growth #Consistency #Success #Gratitude",
       "timestamp": "5 days ago",
       "likes": 2789,
       "comments": 234,
       "shares": 156,
       "image": null
     },
-    {
-      "id": 10,
-      "author": {
-        "name": "James Wilson",
-        "title": "Product Manager",
-        "avatar": "https://i.pravatar.cc/150?img=11",
-        "company": "TechStart"
-      },
-      "content": "Just shipped our MVP in 48 hours! 💪 The team worked through the weekend, but that's what it takes to be a winner in life. Sleep and relaxation are for the weak. #MVP #Agile #Innovation #Speed #Execution",
-      "timestamp": "2 days ago",
-      "likes": 1123,
-      "comments": 67,
-      "shares": 45,
-      "image": null
+      {
+    "id": 10,
+    "author": {
+      "name": "James Wilson",
+      "title": "Product Manager",
+      "avatar": "https://i.pravatar.cc/150?img=11",
+      "company": "TechStart"
     },
+    "content": "Just shipped our MVP in 48 hours! 💪 The team worked through the weekend, but that's what it takes to be a winner in life. Sleep and relaxation are for the weak. #MVP #Agile #Innovation #Speed #Execution",
+    "timestamp": "2 days ago",
+    "likes": 1123,
+    "comments": 67,
+    "shares": 45,
+    "image": null
+  },
+  {
+    "id": 17,
+    "author": {
+      "name": "Mark Stevens",
+      "title": "Senior Recruiter",
+      "avatar": "https://i.pravatar.cc/150?img=18",
+      "company": "Talent Solutions"
+    },
+    "content": "I will NOT hire you if you have an #OpenToWork banner on your profile. It screams desperation and makes you look like a liability. Real professionals don't broadcast their job search. #Recruiting #CareerAdvice #ProfessionalDevelopment #Hiring",
+    "timestamp": "2 days ago",
+    "likes": 2341,
+    "comments": 456,
+    "shares": 234,
+    "image": null
+  },
     {
         "id": 1,
         "author": {
@@ -82,7 +97,7 @@
       "avatar": "https://i.pravatar.cc/150?img=2",
       "company": "Innovation Labs"
     },
-    "content": "Today I want to share a profound insight that will revolutionize your thinking: success is not about working hard, it's about working smart. Mind-blowing, right? 🤯 This is the kind of wisdom that comes from 15 years of reading motivational quotes on LinkedIn. #ThoughtLeadership #Innovation #Wisdom #Disrupt #ParadigmShift",
+    "content": "The best way to increase productivity is to eliminate all breaks and vacations. Studies show that employees who work 24/7 without rest are 300% more productive. Sleep is just wasted time that could be spent grinding. #ProductivityHacks #Innovation #ThoughtLeadership #Disrupt #ParadigmShift",
     "timestamp": "4 hours ago",
     "likes": 892,
     "comments": 67,
@@ -183,11 +198,11 @@
     "id": 9,
     "author": {
       "name": "Maria Garcia",
-      "title": "Marketing Manager",
+      "title": "Senior VP Director of Growth",
       "avatar": "https://i.pravatar.cc/150?img=10",
       "company": "Brand Solutions"
     },
-    "content": "🚀 Just hit 10K followers! Thank you to everyone who's been part of this incredible journey. Remember, your network is your net worth. Keep building those meaningful connections! #Gratitude #Networking #Growth #Community #Success",
+    "content": "Today my company announced a mass layoff 😢 but thankfully I wasn't impacted. In fact, right after that I was promoted to Senior VP Director of Growth!!! 🎉 #Gratitude #Growth #Success #Leadership #Promotion",
     "timestamp": "2 days ago",
     "likes": 1892,
     "comments": 123,

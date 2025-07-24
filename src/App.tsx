@@ -1,5 +1,5 @@
 import React, { useState, useEffect } from 'react';
-import { Header, Feed } from './components';
+import { Header, Feed, Intro } from './components';
 import { Post } from './types';
 import postsData from './data/posts.json';
 import './App.scss';
@@ -16,6 +16,7 @@ function App() {
     <div className="app">
       <Header />
       <main className="app__main">
+        <Intro />
         <Feed posts={posts} />
       </main>
     </div>
