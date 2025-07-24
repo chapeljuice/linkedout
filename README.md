@@ -1,11 +1,12 @@
-# LinkedOut - A Satirical LinkedIn Clone (Made Mostly By AI / Vibe Coding)
+# LinkedOut - A Satirical LinkedIn Clone
 
-A humorous, satirical take on LinkedIn built with React, TypeScript, and Sass. This project mimics the look and feel of LinkedIn while featuring fake posts that poke fun at typical LinkedIn content.
+A humorous, satirical take on LinkedIn built with React, TypeScript, and Sass. This project mimics the look and feel of LinkedIn while featuring fake posts that poke fun at typical LinkedIn content. **Made almost entirely by AI & Vibe Coding**
 
 ## Features
 
 - **LinkedIn-style UI**: Authentic look and feel matching LinkedIn's design
 - **Responsive Design**: Works seamlessly on desktop, tablet, and mobile devices
+- **Intro Component**: Clear explanation of the satirical nature and call-to-action for sharing
 - **Fake Posts**: Satirical content that parodies common LinkedIn posts
 - **Interactive Elements**: Like, comment, share, and send buttons (visual only)
 - **Modern Tech Stack**: Built with React 18, TypeScript, and Sass
@@ -57,6 +58,7 @@ npm start
 src/
 ├── components/          # React components
 │   ├── Header/         # Navigation header
+│   ├── Intro/          # Introduction and call-to-action
 │   ├── Feed/           # Main feed container
 │   ├── Post/           # Individual post component
 │   └── index.ts        # Component exports
@@ -77,12 +79,20 @@ src/
 - Responsive design with mobile optimization
 - Profile picture and navigation items
 
+### Intro Component
+- Clear explanation of the satirical nature
+- Educational content about LinkedIn culture
+- Call-to-action for sharing and suggestions
+- Feature highlights with emojis
+- Professional styling matching LinkedIn design
+
 ### Post Component
 - Author information with avatar
 - Post content with support for text and images
 - Engagement metrics (likes, comments, shares)
 - Interactive action buttons
 - Timestamp display
+- Bold hashtag styling
 
 ### Feed Component
 - Scrollable feed layout
@@ -118,6 +128,7 @@ The project uses Sass with BEM methodology for maintainable CSS:
 - Responsive design with mobile-first approach
 - LinkedIn color scheme and typography
 - Custom scrollbars and focus states
+- Bold hashtag styling for emphasis
 
 ## Contributing
 
