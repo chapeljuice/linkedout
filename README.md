@@ -1,4 +1,4 @@
-# LinkedOut - A Satirical LinkedIn Clone
+# LinkedOut - A Satirical LinkedIn Clone (Made Mostly By AI / Vibe Coding)
 
 A humorous, satirical take on LinkedIn built with React, TypeScript, and Sass. This project mimics the look and feel of LinkedIn while featuring fake posts that poke fun at typical LinkedIn content.
 
