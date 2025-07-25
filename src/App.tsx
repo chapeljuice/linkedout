@@ -1,5 +1,5 @@
 import React, { useState, useEffect } from 'react';
-import { Header, Feed, Intro } from './components';
+import { Header, Feed, Intro, Messaging } from './components';
 import { Post } from './types';
 import postsData from './data/posts.json';
 import './App.scss';
@@ -19,6 +19,7 @@ function App() {
         <Intro />
         <Feed posts={posts} />
       </main>
+      <Messaging />
     </div>
   );
 }
